@@ -18,7 +18,7 @@ you can start participating on our club competions
 
 ### Viewing Upcoming Competions
 
-![N|Solid](https://i.ibb.co/C2LYpBs/2022-07-16-180222.png)
+![N|Solid](https://i.ibb.co/x6WPKYP/2022-07-17-171314.png)
 
 
 ## Prerequisites
@@ -101,7 +101,6 @@ and from answers page you can manage the submitted answers
 
 ## You Can Do
 
-- Bootstrap templating section (no css pure bootstrap)
 
 * [x] - On Website
     - [x] - Sign up - Login
