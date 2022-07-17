@@ -1,4 +1,5 @@
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) 
+[![forthebadge](https://svgur.com/i/j9u.svg)](https://forthebadge.com) [![forthebadge](https://svgur.com/i/jAn.svg)](https://forthebadge.com) 
+[![forthebadge](https://svgur.com/i/jBT.svg)
 
 [![madewithreact](https://img.shields.io/badge/madewith-react-green.svg)](https://reactjs.org/) [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
